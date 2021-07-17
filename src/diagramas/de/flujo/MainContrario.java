@@ -6,6 +6,7 @@ public class MainContrario {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		//Revisando el trabajo
 System.out.println("ingrese el numero de filas:");
 		
 		Scanner teclado =new Scanner(System.in);
