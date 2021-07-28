@@ -15,6 +15,7 @@ public class MainCorrecion2 {
 		int PI = 0;
 
 		
+		
 		for (int i = 1; i != -1; i++) {
 			System.out.println("Ingrese un numero positivo");
 			int n = lector.nextInt();

@@ -13,6 +13,7 @@ public class MainCorrecion {
 		int C = 0;
 		
 
+		
 		for (int i = 1; i != 0; i++) {
 			System.out.println("Ingrese un numero positivo");
 			int n = lector.nextInt();
