@@ -5,7 +5,7 @@ public class MainSueldo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("bienvenido a su consulta");
+		System.out.println("bienvenido a su consulta¡¡");
 		System.out.println("ingrese su sueldo:");
 		 
 		  Scanner teclado =new Scanner(System.in);
@@ -26,7 +26,7 @@ public class MainSueldo {
 		        System.out.println(" su sueldo es:" + N);
 		    	}
 					 
-		  System.out.println("Gracias por su consulta");
+		  System.out.println("Gracias por su consulta¡¡");
 	}
 
 }

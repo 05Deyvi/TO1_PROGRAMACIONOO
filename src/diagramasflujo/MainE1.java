@@ -14,6 +14,9 @@ public class MainE1 {
 			 
 			   }else {
 			 System.out.println("su bonifiacion es:" + 0);
+			 
+			
 	}
+		 
 	}
 }
