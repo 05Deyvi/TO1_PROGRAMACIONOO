@@ -11,6 +11,7 @@ public class MainCorrecion {
 		int S = 0;
 		int P = 0;
 		int C = 0;
+		
 
 		for (int i = 1; i != 0; i++) {
 			System.out.println("Ingrese un numero positivo");
