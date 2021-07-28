@@ -6,6 +6,7 @@ public class MainCorrecion2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		// correccion de la prueba 
 		
 		Scanner lector = new Scanner(System.in);
 		int SP = 0;
