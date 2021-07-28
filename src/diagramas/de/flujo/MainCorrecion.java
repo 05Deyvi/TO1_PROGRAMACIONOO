@@ -6,7 +6,7 @@ public class MainCorrecion {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		// correcion de la prueba
+		
 		Scanner lector = new Scanner(System.in);
 		int S = 0;
 		int P = 0;
@@ -27,7 +27,7 @@ public class MainCorrecion {
 			System.out.println("la suma es:" + S);
 			System.out.println("el promedio es:" + P);
 			System.out.println("la cantidad de numeros es:" + C);
-
+			System.out.println("gracias por consultar");
 		}
 
 	}

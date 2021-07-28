@@ -6,7 +6,7 @@ public class MainCorrecion2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		// la coreecion de la prueba 2
+		
 		Scanner lector = new Scanner(System.in);
 		int SP = 0;
 		int SI = 0;
@@ -32,7 +32,7 @@ public class MainCorrecion2 {
 			System.out.println("la suma pares es:" + SP);
 			System.out.println("el promedio de impares es:" + PI);
 			System.out.println("la cantidad de numeros impares es:" + CI);
-
+			System.out.println("gracias por consultar");
 		}
 
 	}
