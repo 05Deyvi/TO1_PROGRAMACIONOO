@@ -23,7 +23,7 @@ public class MAainVector1 {
 		}
 		// recorriendo el vector lleno
 		for(int i =0; i<3; i++){
-			System.out.println("Ingrese valor de la posicion: " + i);
+			System.out.println(" valor de la posicion: " + i);
 			System.out.println( x[i]);
 		
 		

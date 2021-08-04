@@ -21,7 +21,7 @@ public class MainVector2 {
 			
 			Scanner lector1 = new Scanner(System.in);
 			 n = lector1.nextInt();
-			 x[i]=n;
+			 x[i]=n-1;
 		
 	}
 	}
