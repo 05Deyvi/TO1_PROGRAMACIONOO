@@ -24,5 +24,10 @@ public class MainVector2 {
 			 x[i]=n-1;
 		
 	}
+		for(int i =0; i<n; i++){
+			System.out.println(" valor de la posicion: " + i);
+			System.out.println( x[i]);
+	}
 	}
 }
+
