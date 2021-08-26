@@ -1,6 +1,12 @@
 package ejercicios.modificadores.acceso;
 
-public class MujerEmbarazada {
+public class MujerEmbarazada extends Paciente {
+
+	public void realizarEcoEmbarazo() {
+		
+		
+		
+	}
 	
 
 }
