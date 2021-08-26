@@ -3,6 +3,7 @@ package deberes.de.programacion;
 public class MatriculacionColegio implements MatriculaInterfaz {
 
 	// para verfificar si vale subir al GIT
+	//VERIFICAR
 	
 	public void SolicitarDatosEstudiante() {
 		// TODO Auto-generated method stub
