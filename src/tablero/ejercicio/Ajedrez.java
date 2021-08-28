@@ -2,7 +2,7 @@ package tablero.ejercicio;
 
 import java.util.Arrays;
 
-public class Ajedrez {
+public class abstract Ajedrez {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -111,7 +111,8 @@ public class Ajedrez {
 		Rey ReyBlanco1 = new Rey();
 		ReyBlanco1.setColor("BLANCO");
 		
-		Piezas ordenamiento[][] = new Piezas[8][8];
+		Principal piezas[][] = new Principal[8][8];
+		Torre[][] ordenamiento;
 		ordenamiento[0][0]=TorreNegro1;
 		ordenamiento[0][1]=CaballoNegro1;
 		ordenamiento[0][2]=AlfilNegro1;
@@ -187,4 +188,4 @@ public class Ajedrez {
 
 	}
 
-}
+
